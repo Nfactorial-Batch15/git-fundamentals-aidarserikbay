@@ -25,3 +25,5 @@ func result(machinePick: String, humanPick: String) {
         print("The Winner is Human, machine have lost")
     }
 }
+
+result(machinePick: Rock, humanPick: Rock)
